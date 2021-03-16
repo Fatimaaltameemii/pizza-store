@@ -1,6 +1,6 @@
-import vegipizza from "./pizzapics/vegpizza.png";
-import pepperoni from "./pizzapics/pepperonipizza.png";
-import margarita from "./pizzapics/margretapizza.png";
+import vegipizza from "./images/vegpizza.png";
+import pepperoni from "./images/pepperonipizza.png";
+import margarita from "./images/margretapizza.png";
 let pizza = [
   {
     name: "Margarita",
