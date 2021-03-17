@@ -12,13 +12,6 @@ export default function Navbar() {
       <img className="Logosize" alt="pizzalogo" src={logo} />
       <img className="Logosize" alt="pizzalogo" src={logo} />
       <img className="Logosize" alt="pizzalogo" src={logo} />
-      <img className="Logosize" alt="pizzalogo" src={logo} />
-      <img className="Logosize" alt="pizzalogo" src={logo} />
-      <img className="Logosize" alt="pizzalogo" src={logo} />
-      <img className="Logosize" alt="pizzalogo" src={logo} />
-      <img className="Logosize" alt="pizzalogo" src={logo} />
-      <img className="Logosize" alt="pizzalogo" src={logo} />
-      <img className="Logosize" alt="pizzalogo" src={logo} />
     </div>
   );
 }
